@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./assets/sakshi-profile.svg" alt="Sakshi Kumari GitHub Profile" width="100%"/>
-
+<img src="./sakshi-profile.svg" alt="Sakshi Kumari GitHub Profile" width="100%"/>
 </div>
 
 ## 📊 GitHub Activity
