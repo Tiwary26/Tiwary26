@@ -2,9 +2,9 @@
 
 <img src="assets/profile-banner.svg" alt="Sakshi Kumari — AI Systems Engineer" width="100%" />
 
-### AI Systems Engineer · Full-Stack Developer · AI/ML Enthusiast
+### AI Systems Engineer · Full-Stack Developer · Applied AI/ML
 
-Building useful software at the intersection of intelligent systems, thoughtful product design, and reliable engineering.
+Building practical software, data-centric tools, and AI-powered products.
 
 [GitHub](https://github.com/Tiwary26) · [LinkedIn](https://www.linkedin.com/in/sakshi-tiwary-57526429a)
 
@@ -14,61 +14,85 @@ Building useful software at the intersection of intelligent systems, thoughtful 
 
 ## About
 
-I'm a Computer Science Engineering student focused on building end-to-end applications and practical AI-powered products. I enjoy turning ambiguous problems into clear, usable software—from data workflows and backend APIs to polished interfaces.
+I'm a Computer Science Engineering student who enjoys building end-to-end applications and turning complex problems into useful software. My interests span full-stack development, applied machine learning, and data-centric products.
 
-- **Current focus:** Full-stack engineering, applied machine learning, and data-centric applications
-- **Engineering interests:** API design, data quality, search and matching, developer experience
-- **Approach:** Understand the problem, build a reliable baseline, validate it, then improve it
+- **Focus:** Full-stack engineering, applied AI/ML, and data applications
+- **Interests:** API design, NLP, data quality, and product engineering
+- **Currently building:** Tools that make data easier to understand and use
 
-## Selected Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### AI Data Detective
-**Dataset intelligence and data-quality analysis**
+A data profiling and quality-analysis tool for exploring datasets, identifying missing values and duplicates, and reviewing statistical insights.
 
-A data-analysis application designed to help users upload datasets, inspect their structure, identify data-quality issues, and explore statistical insights.
+**Stack:** Python · FastAPI · React · PostgreSQL · Pandas
 
-`Python` `FastAPI` `React` `PostgreSQL` `Pandas` `AI/ML`
+</td>
+<td width="50%" valign="top">
 
 ### ATS Resume Screening
-**Resume parsing and job-description matching**
+A resume-matching project that extracts candidate information and compares resumes with job requirements using NLP and similarity scoring.
 
-A recruitment-support project focused on extracting candidate information and comparing resumes against job requirements using NLP and similarity-based scoring.
+**Stack:** Python · NLP · TF-IDF · Scikit-learn · Next.js
 
-`Python` `NLP` `TF-IDF` `Scikit-learn` `Next.js`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### BudgetWise AI
-**Personal finance and budgeting platform**
+A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
 
-A personal-finance application for tracking expenses, managing budgets, and presenting financial insights through an interactive dashboard.
+**Stack:** React · Node.js · Express · MongoDB · AI/ML
 
-`React` `Node.js` `Express` `MongoDB` `AI/ML`
+[Live Demo](https://budgetwise-ai-3w1s.onrender.com/login)
 
-> Add the correct repository and live-demo URLs to each project title when those links are ready. Only link projects that are public and working.
+</td>
+<td width="50%" valign="top">
+
+### Developer Portfolio
+A home for selected projects, technical skills, and software engineering work.
+
+**Stack:** React · Next.js · Tailwind CSS · TypeScript
+
+</td>
+</tr>
+</table>
 
 ## Technical Toolkit
 
-| Area | Technologies |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, C, SQL |
-| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, Flask, FastAPI, REST APIs |
-| Data & ML | Pandas, NumPy, Scikit-learn, NLP, TF-IDF |
-| Databases | PostgreSQL, MongoDB, MySQL, Firebase |
-| Tools | Git, GitHub, Docker, Vercel |
+**Languages**  
+Python · JavaScript · TypeScript · C · SQL
 
-## Engineering Principles
+**Frontend**  
+React · Next.js · HTML · CSS · Tailwind CSS
 
-- **Clarity over complexity** — keep systems understandable and maintainable.
-- **Evidence over assumptions** — validate with tests, data, and real user needs.
-- **Useful over flashy** — prioritize outcomes, accessibility, and reliability.
+**Backend & APIs**  
+Node.js · Express · Flask · FastAPI · REST APIs
 
-## Find Me
+**Data & AI/ML**  
+Pandas · NumPy · Scikit-learn · NLP · TF-IDF
+
+**Databases & Tools**  
+PostgreSQL · MongoDB · MySQL · Firebase · Git · GitHub · Docker · Vercel
+
+## Engineering Mindset
+
+- Build for clarity, maintainability, and real user needs.
+- Validate assumptions with data and testing.
+- Keep learning by shipping, reviewing, and improving.
+
+## Connect
 
 - GitHub: [@Tiwary26](https://github.com/Tiwary26)
 - LinkedIn: [Sakshi Kumari](https://www.linkedin.com/in/sakshi-tiwary-57526429a)
 
 <div align="center">
 
-*Building consistently. Learning continuously.*
+*Design with intent. Engineer for impact.*
 
 </div>
