@@ -1,57 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Sakshi Kumari — AI Systems Engineer</title>
-  <desc id="desc">Graphite banner with cyan technical lines and an abstract wireframe sphere.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#151a20"/>
-      <stop offset="100%" stop-color="#090d12"/>
-    </linearGradient>
-    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#73f5ef"/>
-      <stop offset="100%" stop-color="#28bfc9"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#28d7d0" stop-opacity=".22"/>
-      <stop offset="100%" stop-color="#28d7d0" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#9ab4c2" stroke-opacity=".08" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
-  <circle cx="930" cy="180" r="190" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#cyan)" stroke-width="1.25" opacity=".7">
-    <circle cx="930" cy="180" r="112"/>
-    <ellipse cx="930" cy="180" rx="112" ry="42"/>
-    <ellipse cx="930" cy="180" rx="112" ry="78"/>
-    <ellipse cx="930" cy="180" rx="42" ry="112"/>
-    <ellipse cx="930" cy="180" rx="78" ry="112"/>
-    <path d="M818 180H1042M930 68V292"/>
-    <path d="M850 100L1010 260M1010 100L850 260" stroke-opacity=".45"/>
-    <path d="M930 68L1010 100L1042 180L1010 260L930 292L850 260L818 180L850 100Z" stroke-opacity=".55"/>
-  </g>
-  <g fill="#73f5ef">
-    <circle cx="930" cy="68" r="3.5"/>
-    <circle cx="1042" cy="180" r="3.5"/>
-    <circle cx="930" cy="292" r="3.5"/>
-    <circle cx="818" cy="180" r="3.5"/>
-    <circle cx="1010" cy="100" r="3"/>
-    <circle cx="850" cy="260" r="3"/>
-  </g>
-  <g stroke="#73f5ef" stroke-width="1.5" opacity=".8">
-    <path d="M780 95H720V125H690"/>
-    <path d="M1020 286H1080V256H1110"/>
-    <path d="M795 245H760V270H730"/>
-  </g>
-  <g fill="#73f5ef" opacity=".9" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2">
-    <text x="690" y="116">MODEL / DATA / SYSTEMS</text>
-    <text x="1000" y="245">BUILD · TEST · REFINE</text>
-    <text x="72" y="54">ENGINEERING PORTFOLIO / 2026</text>
-  </g>
-  <text x="70" y="145" fill="#f2f6f8" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Sakshi Kumari</text>
-  <text x="73" y="184" fill="#73f5ef" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.2">AI SYSTEMS ENGINEER</text>
-  <text x="73" y="220" fill="#b5c1ca" font-family="Arial, Helvetica, sans-serif" font-size="16">Full-stack software · Applied AI/ML · Data-centric products</text>
-  <path d="M73 250H440" stroke="#73f5ef" stroke-width="2" opacity=".8"/>
-  <text x="73" y="282" fill="#7f919e" font-family="Consolas, 'Courier New', monospace" font-size="12">DESIGN WITH INTENT. ENGINEER FOR IMPACT.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Sakshi Kumari — AI Systems Engineer</title>
+<desc id="desc">Minimal graphite banner with cyan and violet abstract technical wireframe.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171923"/><stop offset="1" stop-color="#090b11"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#4dded5" stop-opacity=".22"/><stop offset="1" stop-color="#4dded5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#a8b8ca" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="16" fill="url(#bg)"/><rect width="1200" height="330" rx="16" fill="url(#grid)"/>
+<circle cx="930" cy="165" r="190" fill="url(#glow)"/>
+<g fill="none" stroke="#67f1e5" stroke-width="1.2" opacity=".72">
+<circle cx="930" cy="165" r="105"/><ellipse cx="930" cy="165" rx="105" ry="38"/><ellipse cx="930" cy="165" rx="105" ry="72"/>
+<ellipse cx="930" cy="165" rx="38" ry="105"/><ellipse cx="930" cy="165" rx="72" ry="105"/>
+<path d="M825 165H1035M930 60V270M855 90L1005 240M1005 90L855 240"/>
+<path d="M930 60L1005 90L1035 165L1005 240L930 270L855 240L825 165L855 90Z" stroke-opacity=".55"/>
+</g>
+<g fill="#67f1e5"><circle cx="930" cy="60" r="3"/><circle cx="1035" cy="165" r="3"/><circle cx="930" cy="270" r="3"/><circle cx="825" cy="165" r="3"/></g>
+<g fill="#67f1e5" font-family="Consolas,monospace" font-size="10" letter-spacing="2"><text x="68" y="48">ENGINEERING / AI / SYSTEMS</text><text x="1000" y="285">BUILD · TEST · REFINE</text></g>
+<text x="68" y="133" fill="#f3f5fa" font-family="Arial,Helvetica,sans-serif" font-size="45" font-weight="700">Sakshi Kumari</text>
+<text x="70" y="173" fill="#67f1e5" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600" letter-spacing="1.5">AI SYSTEMS ENGINEER</text>
+<text x="70" y="207" fill="#b0b7c8" font-family="Arial,Helvetica,sans-serif" font-size="15">Full-stack software · Applied AI/ML · Data-centric products</text>
+<path d="M70 235H420" stroke="#8a75ff" stroke-width="2"/>
+<text x="70" y="263" fill="#7f8a9e" font-family="Consolas,monospace" font-size="11" letter-spacing="1">DESIGN WITH INTENT. ENGINEER FOR IMPACT.</text>
 </svg>
