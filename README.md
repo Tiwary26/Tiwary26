@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/profile-banner.svg" alt="Sakshi Kumari — AI Systems Engineer" width="100%" />
-
 ### AI Systems Engineer · Full-Stack Developer · Applied AI/ML
 
 Building practical software, data-centric tools, and AI-powered products.
