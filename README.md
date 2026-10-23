@@ -86,6 +86,7 @@ PostgreSQL · MongoDB · MySQL · Firebase · Git · GitHub · Docker · Vercel
 
 - GitHub: [@Tiwary26](https://github.com/Tiwary26)
 - LinkedIn: [Sakshi Kumari](https://www.linkedin.com/in/sakshi-tiwary-57526429a)
+- Email: [Sakshi Kumari](sakshikumaritiwari22@gmail.com)
 
 <div align="center">
 
