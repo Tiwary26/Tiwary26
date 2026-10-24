@@ -2,7 +2,7 @@
 
 Building practical software, data-centric tools, and AI-powered products.
 
-[GitHub](https://github.com/Tiwary26)   [LinkedIn](https://www.linkedin.com/in/sakshi-tiwary-57526429a)  [Email](sakshikumaritiwari22@gmail.com)
+[GitHub](https://github.com/Tiwary26)      [LinkedIn](https://www.linkedin.com/in/sakshi-tiwary-57526429a)      [Email](sakshikumaritiwari22@gmail.com)
 
 </div>
 
