@@ -35,6 +35,7 @@ A data profiling and quality-analysis tool for exploring datasets, identifying m
 A full-stack e-commerce web application designed to provide a seamless online shopping experience with product browsing, shopping cart management, user authentication, and order management.
 
 **Stack:** React.js · Node.js · Express.js · MongoDB
+</td>
 
 ### BudgetWise AI
 A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
