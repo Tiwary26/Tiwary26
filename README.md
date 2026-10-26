@@ -29,6 +29,7 @@ A data profiling and quality-analysis tool for exploring datasets, identifying m
 
 </td>
 <td width="50%" valign="top">
+</table>
 
 ### ShopSphere — Full-Stack E-Commerce Platform
 
@@ -37,6 +38,7 @@ A full-stack e-commerce web application designed to provide a seamless online sh
 **Stack:** React.js · Node.js · Express.js · MongoDB
 </td>
 <td width="50%" valign="top">
+</table>
 
 ### BudgetWise AI
 A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
@@ -46,7 +48,8 @@ A personal finance platform for tracking expenses, managing budgets, and present
 [Live Demo](https://budgetwise-ai-3w1s.onrender.com/login)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top>
+</table>
 
 ### Developer Portfolio
 A home for selected projects, technical skills, and software engineering work.
