@@ -36,6 +36,7 @@ A full-stack e-commerce web application designed to provide a seamless online sh
 
 **Stack:** React.js · Node.js · Express.js · MongoDB
 </td>
+<td width="50%" valign="top">
 
 ### BudgetWise AI
 A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
