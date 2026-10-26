@@ -16,44 +16,35 @@ I'm a Computer Science Engineering student who enjoys building end-to-end applic
 - **Interests:** API design, NLP, data quality, and product engineering
 - **Currently building:** Tools that make data easier to understand and use
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Data Detective
-A data profiling and quality-analysis tool for exploring datasets, identifying missing values and duplicates, and reviewing statistical insights.
-
-**Stack:** Python · FastAPI · React · PostgreSQL · Pandas
-
-</td>
-<td width="50%" valign="top">
-
-### ShopSphere — Full-Stack E-Commerce Platform
-
-A full-stack e-commerce web application designed to provide a seamless online shopping experience with product browsing, shopping cart management, user authentication, and order management.
-
-**Stack:** React.js · Node.js · Express.js · MongoDB
-</td>
-<td width="50%" valign="top">
-
-### BudgetWise AI
-A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
-
-**Stack:** React · Node.js · Express · MongoDB · AI/ML
-
-[Live Demo](https://budgetwise-ai-3w1s.onrender.com/login)
-
-</td>
-<td width="50%" valign="top>
-
-### Developer Portfolio
-A home for selected projects, technical skills, and software engineering work.
-
-**Stack:** React · Next.js · Tailwind CSS · TypeScript
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 AI Data Detective</h3>
+      <p>An intelligent data profiling and quality analysis platform that identifies missing values, duplicate records, and statistical insights.</p>
+      <p><strong>Tech Stack:</strong> Python · FastAPI · React · PostgreSQL · Pandas</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 ShopSphere — Full-Stack E-Commerce Platform</h3>
+      <p>A full-stack e-commerce application featuring product browsing, shopping cart management, user authentication, and order management.</p>
+      <p><strong>Tech Stack:</strong> React.js · Node.js · Express.js · MongoDB</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 BudgetWise AI</h3>
+      <p>An AI-powered personal finance platform for expense tracking, budget management, financial insights, and interactive analytics dashboards.</p>
+      <p><strong>Tech Stack:</strong> React.js · Node.js · Express.js · MongoDB · AI/ML</p>
+      <p><a href="https://budgetwise-ai-3w1s.onrender.com/login">🔗 Live Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A personal portfolio website showcasing projects, technical skills, and professional information in a responsive interface.</p>
+      <p><strong>Tech Stack:</strong> React.js · Next.js · Tailwind CSS</p>
+      <p><a href="https://github.com/Tiwary26">🔗 GitHub Profile</a></p>
+    </td>
+  </tr>
 </table>
 
 ## Technical Toolkit
