@@ -30,15 +30,11 @@ A data profiling and quality-analysis tool for exploring datasets, identifying m
 </td>
 <td width="50%" valign="top">
 
-### ATS Resume Screening
-A resume-matching project that extracts candidate information and compares resumes with job requirements using NLP and similarity scoring.
+### ShopSphere — Full-Stack E-Commerce Platform
 
-**Stack:** Python · NLP · TF-IDF · Scikit-learn · Next.js
+A full-stack e-commerce web application designed to provide a seamless online shopping experience with product browsing, shopping cart management, user authentication, and order management.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Stack:** React.js · Node.js · Express.js · MongoDB
 
 ### BudgetWise AI
 A personal finance platform for tracking expenses, managing budgets, and presenting financial insights in an interactive dashboard.
